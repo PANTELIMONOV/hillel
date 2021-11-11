@@ -19,3 +19,11 @@ public class Task3 {
         System.out.println("Your Body Mass Index is: " + weight / square(height));
     }
 }
+
+//3. Write a Java program to compute body mass index (BMI).
+//        Test Data
+//        Input weight in pounds: 452
+//        Input height in inches: 72
+//        Expected Output:
+//        Body Mass Index is 61.30159143458721
+

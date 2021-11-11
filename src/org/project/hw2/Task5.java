@@ -16,3 +16,5 @@ public class Task5 {
         System.out.println(rnd);
     }
 }
+
+//5. Write a Java program to generate random integers in a specific range.(Hint: Use Math class)
