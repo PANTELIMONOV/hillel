@@ -3,7 +3,10 @@ package org.project.hw4;
 public class Task1 {
     public static void main(String[] args) {
         int[] intArray = new int[]{1, 2, 3, 4, 2, 7, 8, 8, 3, 0, 0};
+        duplicate(intArray);
+    }
 
+    public static void duplicate(int[] intArray) {
         for (int i = 0; i < intArray.length; i++) {
             for (int c = i + 1; c < intArray.length; c++)
                 if (intArray[i] == intArray[c]) System.out.println(intArray[c]);
