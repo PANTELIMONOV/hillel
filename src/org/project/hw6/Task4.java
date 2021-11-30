@@ -1,6 +1,6 @@
 package org.project.hw6;
 
-public class task4 {
+public class Task4 {
     public static int worldsCounter(String str) {
         String[] strArray = str.split(" ");
         return strArray.length;

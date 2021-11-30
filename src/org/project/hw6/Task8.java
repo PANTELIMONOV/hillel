@@ -1,6 +1,6 @@
 package org.project.hw6;
 
-public class task8 {
+public class Task8 {
     public static void wordSquare(String str) {
         String[] wordArray = str.split("");
         String[] wordsArray = new String[str.length()];

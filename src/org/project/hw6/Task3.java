@@ -1,6 +1,6 @@
 package org.project.hw6;
 
-public class task3 {
+public class Task3 {
     public static int charCounter(String str, String ch) {
         String[] strArray = str.split("");
         int i = 0;

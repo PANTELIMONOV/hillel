@@ -1,6 +1,6 @@
 package org.project.hw6;
 
-public class task6 {
+public class Task6 {
     public static String letterRemoval(String str, String ch) {
         String[] strArray = str.split("");
         int i = 0;

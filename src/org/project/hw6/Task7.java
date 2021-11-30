@@ -1,6 +1,6 @@
 package org.project.hw6;
 
-public class task7 {
+public class Task7 {
     public static boolean codeValidator(String str) {
         String[] codeArray = str.split(" ");
         int secondDigitPart = Integer.parseInt(codeArray[1]);

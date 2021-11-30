@@ -3,7 +3,7 @@ package org.project.hw6;
 import java.util.Objects;
 import java.util.Random;
 
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         System.out.println(randomize("alphanumeric", 10));
     }

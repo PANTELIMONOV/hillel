@@ -1,6 +1,6 @@
 package org.project.hw6;
 
-public class task2 {
+public class Task2 {
     public static void changeCase(String str) {
         String[] strArray = str.split("");
         StringBuilder newString = new StringBuilder();

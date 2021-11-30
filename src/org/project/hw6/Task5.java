@@ -1,6 +1,6 @@
 package org.project.hw6;
 
-public class task5 {
+public class Task5 {
     public static int wordLengthCounter(String str, int size) {
         str = str.replaceAll("[.,?!]", "");
         String[] strArray = str.split(" ");
